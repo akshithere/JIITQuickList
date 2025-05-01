@@ -14,12 +14,12 @@ Whether you're moving hostels, graduating, or just cleaning up, JIITQuickList le
 
 ## 📱 Screenshots
 
-| Home | Product Listing | Upload Item |
+| Home | Create Account | Forgot Password |
 |------|------------------|-------------|
 | ![](./client/assets/demo/1.jpeg) | ![](./client/assets/demo/2.jpeg) | ![](./client/assets/demo/3.jpeg) |
 
-| Login Page | Search View | Profile Page | Chat |
-|------------|-------------|---------------|------|
+## Other Images
+
 | ![](./client/assets/demo/4.jpeg) | ![](./client/assets/demo/5.jpeg) | ![](./client/assets/demo/6.jpeg) | ![](./client/assets/demo/7.jpeg) |
 
 ---
@@ -68,6 +68,7 @@ Let’s make sustainability and affordability a norm on campus!
 | [MongoDB](https://mongodb.com/) | For database |
 | [React Navigation](https://reactnavigation.org/) | Navigation between screens |
 | [Jest](https://www.jest.dev/) | For testing purposes |
+| [Gemini API](https://gemini.google.com/) | For fetching details |
 
 ---
 
